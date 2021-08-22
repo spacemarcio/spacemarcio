@@ -7,4 +7,4 @@ Sou Marcio, um grande fã de
 
 Analista de Dados na [Neurolake](https://www.neurotech.com.br/neurolake/). 
 
-Interessado em Engenharia de Dados, causalidade e comunicação
+Interessado em Engenharia de Dados, causalidade e comunicação :mega:
