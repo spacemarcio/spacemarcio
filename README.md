@@ -1,10 +1,5 @@
-## Fala aí! :ringed_planet:	
+## Ground control to major person :ringed_planet:	
 
-Sou Marcio, um grande fã de
- - música alternativa :guitar:	
- - imagens do espaço  :space_invader:
- - pinguins           :penguin:	
+Data Analyst at [Neurolake](https://www.neurotech.com.br/neurolake/).
 
-Analista de Dados na [Neurolake](https://www.neurotech.com.br/neurolake/). 
-
-Interessado em Engenharia de Dados, causalidade e comunicação :mega:
+Data Engeneering, causality and communication :mega:
