@@ -4,6 +4,8 @@ Data Analyst at [Neurolake](https://www.neurotech.com.br/neurolake/)
 
 Learning about Data Engeneering, causal inference and storytelling
 
+<br />
+
 <div>
   <p align="center">
     <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacemarcio&layout=compact&langs_count=7&theme=dark"/>
